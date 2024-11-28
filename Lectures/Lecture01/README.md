@@ -1,4 +1,4 @@
-# Lecture Note | 01. Getting Started with SwiftUI
+# LectureNote | 01. Getting Started with SwiftUI
 
 > **주의:** 이 노트는 제 개인적인 학습을 위한 것입니다. 따라서 내용이 공식 강의 자료와 다를 수 있습니다. 제 이해를 돕기 위해 저만의 방식으로 정리한 점 참고 부탁드립니다.
 
@@ -74,7 +74,7 @@ struct ContentView: View {
 
   ```swift
   VStack {
-    Text("Hello").foregroundStyle(.black))
+    Text("Hello").foregroundStyle(.black)
     Text("World")
   }
   .foregroundStyle(.orange)
