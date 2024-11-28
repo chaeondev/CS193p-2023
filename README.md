@@ -9,8 +9,8 @@
 📖 Reading Assignment | 💻 Programming Assignment
 
 | Lecture | Code & Notes | Assignments |
-| -------- | ------------ | :------------: |
-| [01. Getting Started with SwiftUI](https://www.youtube.com/watch?v=n1qabtjZ_jg) | `📅 2024-12-01` | 📖 R1 |
+| -------- | :------------: | :------------: |
+| [01. Getting Started with SwiftUI](https://www.youtube.com/watch?v=n1qabtjZ_jg) | ✅ [Lecture01](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture01) | 📖 R1 |
 | [02. More SwiftUI](https://www.youtube.com/watch?v=sXiD-2XrkKQ) |`📅 2024-12-01`|💻 P1|
 | [03. MVVM](https://www.youtube.com/watch?v=W1ymVx6dmvc)|`📅 2024-12-08`||
 | [04. Applying MVVM](https://www.youtube.com/watch?v=4CkEVfdqjLw) |`📅 2024-12-08`|📖 R2|
