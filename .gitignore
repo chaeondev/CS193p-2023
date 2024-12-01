@@ -116,6 +116,8 @@ fastlane/test_output
 iOSInjectionProject/
 
 ### Xcode ###
+## User settings
+xcuserdata/
 
 ## Xcode 8 and earlier
 
