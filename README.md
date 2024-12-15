@@ -11,11 +11,11 @@
 | Lecture | Code & Notes | Assignments |
 | -------- | :------------: | :------------: |
 | [01. Getting Started with SwiftUI](https://www.youtube.com/watch?v=n1qabtjZ_jg) | ✅ [Lecture01](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture01) | 📖 R1 |
-| [02. More SwiftUI](https://www.youtube.com/watch?v=sXiD-2XrkKQ) |✅ [Lecture02](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture02) |💻 [Assignment1](https://github.com/chaeondev/CS193p-2023/tree/main/Assignments/Assignment1)|
-| [03. MVVM](https://www.youtube.com/watch?v=W1ymVx6dmvc)|🔄 `📅 2024-12-08`||
-| [04. Applying MVVM](https://www.youtube.com/watch?v=4CkEVfdqjLw) |`📅 2024-12-08`|📖 R2|
-| [05. Protocols, enum, Optional](https://www.youtube.com/watch?v=F1x-H8kEwo8) |`📅 2024-12-15`|💻 P2|
-| [06. Layout, @ViewBuilder](https://www.youtube.com/watch?v=fYlMD9llu7w) |`📅 2024-12-15`|📖 R3 <br> 💻 P3 |
+| [02. More SwiftUI](https://www.youtube.com/watch?v=sXiD-2XrkKQ) | ✅ [Lecture02](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture02) |💻 [Assignment1](https://github.com/chaeondev/CS193p-2023/tree/main/Assignments/Assignment1)|
+| [03. MVVM](https://www.youtube.com/watch?v=W1ymVx6dmvc)| ✅ [Lecture03](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture03) ||
+| [04. Applying MVVM](https://www.youtube.com/watch?v=4CkEVfdqjLw) | 🔄 [Lecture04](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture04) |📖 R2|
+| [05. Protocols, enum, Optional](https://www.youtube.com/watch?v=F1x-H8kEwo8) | 🔄 [Lecture05](https://github.com/chaeondev/CS193p-2023/tree/main/Lectures/Lecture05) |💻 P2|
+| [06. Layout, @ViewBuilder](https://www.youtube.com/watch?v=fYlMD9llu7w) ||📖 R3 <br> 💻 P3 |
 | [07. Shape, ViewModifier, Constants](https://www.youtube.com/watch?v=KR7DXJYhkBw) |||
 | [08. Animation(Part 1)](https://www.youtube.com/watch?v=L7hmw4ISh1A) ||📖 R4|
 | [09. Animation(Part 2)](https://www.youtube.com/watch?v=RCwmYEis5nA) ||💻 P4|
